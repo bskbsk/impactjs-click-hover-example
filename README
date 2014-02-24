@@ -1,0 +1,10 @@
+Simple example of click / hover ( mouse in / mouse out ) functionality in ImpactJS 
+( it also check zIndex, and take only the top one entity )
+
+Hope it will help you:) 
+
+Just remember to add this line in to your init function in main.js ( it binds left mouse click into ImpactJS, so we can use this later :) 
+
+ig.input.bind( ig.KEY.MOUSE1, 'mouse1' );
+
+You can find me at jakub[dot]chamicewicz[at]gmail[dot]com
